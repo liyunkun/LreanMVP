@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Week8_3MVP</string>
+    <string name="http_url">http://www.tngou.net/api/food/list</string>
+</resources>
